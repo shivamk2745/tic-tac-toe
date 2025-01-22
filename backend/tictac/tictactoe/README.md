@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Game with Flask and Socket.IO
+# Tic-Tac-Toe Game with Django
 
 This is a multiplayer Tic-Tac-Toe game built using Django. It features user authentication, gameplay , stats, leaderboard
 ---
